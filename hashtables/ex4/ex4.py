@@ -1,8 +1,11 @@
 def has_negatives(a):
-
-    """
-    YOUR CODE HERE
-    """
+    #initialize a dict to hold all the numbers
+    # init a list to return results
+    # for each number in the array
+    # check if the number has a matching number in the dictionary
+    # and check if the sum of the two is 0
+    # if it is append it to the results list
+    # if no matching number is found make that number the new key
 
     return result
 
